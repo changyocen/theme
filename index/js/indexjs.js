@@ -41,9 +41,9 @@ function IsPC() {
 function domain() {
     if(!IsPC()){//移动设备
         // window.location.href="/working/updating/";
-       document.getElementById("special_day").src="/media/img/phone_bg.JPG";
+       document.getElementById("special_day").src="https://cdn.jsdelivr.net/gh/changyocen/theme@1.0/media/img/phone_bg.JPG";
     }else{
-        document.getElementById("special_day").src="/media/img/temp.png";
+        document.getElementById("special_day").src="https://cdn.jsdelivr.net/gh/changyocen/theme@1.0/media/img/temp.png";
     }
 
 }
