@@ -1,0 +1,36 @@
+
+        #menu_ul {
+            background: lavenderblush;
+            height: 50px;
+            width: 100%;
+            text-decoration: none; /*去掉前面的圆点*/
+            list-style: none;
+            border-radius: 9px;
+        }
+
+        #menu_ul li {
+            display: inline;
+            float: left;
+            line-height: 50px;
+            font-size: 18px;
+            width: 160px;
+            color: white;
+        }
+
+        #menu_ul li:hover {
+            background: #003A80;
+            border-radius: 13px;
+            color: lavenderblush;
+        }
+
+        #menu_ul li a {
+            color: black;
+        }
+
+        #menu_ul li a:hover {
+            font-size: 23px;
+            color: lavenderblush;
+        }
+        #tb_main tr{
+            height: 50px;
+        }
