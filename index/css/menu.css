@@ -3,7 +3,7 @@
             background: lavenderblush;
             height: 50px;
             width: 100%;
-            text-decoration: none; /*去掉前面的圆点*/
+            text-decoration: none; /*脠楼碌么脟掳脙忙碌脛脭虏碌茫*/
             list-style: none;
             border-radius: 9px;
         }
@@ -20,7 +20,7 @@
         #menu_ul li:hover {
             background: #003A80;
             border-radius: 13px;
-            color: lavenderblush;
+            color: white;
         }
 
         #menu_ul li a {
